@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tic_Tac_Toe_Demo", "Tic_Tac_Toe_Demo\Tic_Tac_Toe_Demo.csproj", "{3A3C67D0-A8DB-4459-B3B1-C788380E39D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tic_Tac_Toe_withConception", "Tic_Tac_Toe_withRealFrame\Tic_Tac_Toe_withConception.csproj", "{FBF0EF9B-406B-415A-B741-E1F562024259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A3C67D0-A8DB-4459-B3B1-C788380E39D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3C67D0-A8DB-4459-B3B1-C788380E39D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3C67D0-A8DB-4459-B3B1-C788380E39D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3C67D0-A8DB-4459-B3B1-C788380E39D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF0EF9B-406B-415A-B741-E1F562024259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF0EF9B-406B-415A-B741-E1F562024259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF0EF9B-406B-415A-B741-E1F562024259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF0EF9B-406B-415A-B741-E1F562024259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61DD99FB-9B89-4B47-A2C1-8280F003C67E}
+	EndGlobalSection
+EndGlobal

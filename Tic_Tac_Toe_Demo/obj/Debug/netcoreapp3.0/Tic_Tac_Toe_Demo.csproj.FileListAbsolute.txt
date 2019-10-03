@@ -1,0 +1,11 @@
+C:\Users\meng.tao\source\repos\Tic_Tac_Toe_Demo\Tic_Tac_Toe_Demo\bin\Debug\netcoreapp3.0\Tic_Tac_Toe_Demo.exe
+C:\Users\meng.tao\source\repos\Tic_Tac_Toe_Demo\Tic_Tac_Toe_Demo\bin\Debug\netcoreapp3.0\Tic_Tac_Toe_Demo.deps.json
+C:\Users\meng.tao\source\repos\Tic_Tac_Toe_Demo\Tic_Tac_Toe_Demo\bin\Debug\netcoreapp3.0\Tic_Tac_Toe_Demo.runtimeconfig.json
+C:\Users\meng.tao\source\repos\Tic_Tac_Toe_Demo\Tic_Tac_Toe_Demo\bin\Debug\netcoreapp3.0\Tic_Tac_Toe_Demo.runtimeconfig.dev.json
+C:\Users\meng.tao\source\repos\Tic_Tac_Toe_Demo\Tic_Tac_Toe_Demo\bin\Debug\netcoreapp3.0\Tic_Tac_Toe_Demo.dll
+C:\Users\meng.tao\source\repos\Tic_Tac_Toe_Demo\Tic_Tac_Toe_Demo\bin\Debug\netcoreapp3.0\Tic_Tac_Toe_Demo.pdb
+C:\Users\meng.tao\source\repos\Tic_Tac_Toe_Demo\Tic_Tac_Toe_Demo\obj\Debug\netcoreapp3.0\Tic_Tac_Toe_Demo.csprojAssemblyReference.cache
+C:\Users\meng.tao\source\repos\Tic_Tac_Toe_Demo\Tic_Tac_Toe_Demo\obj\Debug\netcoreapp3.0\Tic_Tac_Toe_Demo.AssemblyInfoInputs.cache
+C:\Users\meng.tao\source\repos\Tic_Tac_Toe_Demo\Tic_Tac_Toe_Demo\obj\Debug\netcoreapp3.0\Tic_Tac_Toe_Demo.AssemblyInfo.cs
+C:\Users\meng.tao\source\repos\Tic_Tac_Toe_Demo\Tic_Tac_Toe_Demo\obj\Debug\netcoreapp3.0\Tic_Tac_Toe_Demo.dll
+C:\Users\meng.tao\source\repos\Tic_Tac_Toe_Demo\Tic_Tac_Toe_Demo\obj\Debug\netcoreapp3.0\Tic_Tac_Toe_Demo.pdb
